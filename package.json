@@ -1,0 +1,38 @@
+{
+  "name": "spacegalaxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scr/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DrakNinja",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.19.2",
+    "canvas-senpai": "^0.1.6",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "erela.js": "^1.1.8",
+    "fs": "0.0.1-security",
+    "imdb-api": "^4.2.0",
+    "js": "^0.1.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "request-promise-native": "^1.0.9",
+    "simple-youtube-api": "^5.2.1",
+    "something-random-on-discord": "0.0.2",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core-discord": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-tesseract": "0.0.3"
+  }
+}
